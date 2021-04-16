@@ -1,0 +1,149 @@
+/*heder styles*/
+.header-wraper{
+	/*background-color:#FFFFFF;*/
+	position: fixed;
+	top:0;
+	left:0;
+	width: 100%;
+	height: 120px;
+
+
+}
+.logo {
+	display: inline-block;
+	margin-top: 4px;
+	margin-right:119px;
+	margin-left:140px;
+	margin-bottom: 24px;
+	vertical-align: middle;
+}
+.navigation{
+	display: inline-block;
+	text-transform: uppercase;
+	vertical-align: middle;
+
+
+}
+.nav-li{
+	display: inline-block;
+	margin-right: 25px;
+}
+.nav-a{
+	font-size: 16 px;
+	color: #181C28;
+	font-family: 'Poppins', sans-serif;
+
+}
+.text-image1{
+	position: absolute;
+	top:105px;
+	left:647px;
+	font-size: 22px;
+	font-family: 'Poppins', sans-serif;
+	color: #FFFFFF;
+}
+.text-image2{
+	position: absolute;
+	top:132px;
+	left:700px;
+	font-size: 48px;
+	font-family: 'Playfair Display', serif;
+	color: #FFFFFF;
+
+}
+.images-wraper{
+	position: relative;
+	width: 1600px;
+	height: 382px;
+
+}
+/*section stye*/
+
+.popular-post{
+	color:#FF7A00;
+	font-size: 22px;
+	font-family: 'Poppins', sans-serif;
+	margin-top: 587px;
+	margin-left: 172px;
+	margin-bottom: 81px;
+}
+
+
+.container{
+	width: : 1327px;
+}
+
+.left-block{
+	width: 637px;
+	display:inline-block;
+	margin-left: 138px;
+	margin-right: 52px;
+
+}
+
+.photo1{
+   margin-bottom: 20px;
+}
+.title1{
+	font-size:36px ;
+}
+.text{
+	font-size:16px ;
+}
+.read-more{
+	color: #FF7A00;
+	font-size:14px;
+	margin-top: 13px;.
+	
+}
+
+.red-more::after {
+	content: "read-more";
+	width:47px;
+	height:4px;
+	background-color: #FF7A00;
+	display: inline-block;
+
+}
+
+.right-block{
+	width: 637px;
+	display:inline-block;
+	margin-right: : 138px;
+
+}
+.photo2{
+	 margin-bottom: 20px;
+
+}
+
+
+.footer-wraper{
+	width: 100%;
+	height: 266px;
+	background-color: #181C28;
+
+}
+.company{
+	margin-top: 82px;
+}
+.footer1{
+	display:inline-block;
+	margin-right: 198px;
+
+}
+.footer2{
+	display:inline-block;
+	margin-right: 198px;
+
+
+}
+.footer3{
+	display:inline-block;
+	margin-right: 217px;
+}
+
+.logos{
+	display:inline-block;
+
+}
